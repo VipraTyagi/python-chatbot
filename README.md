@@ -33,6 +33,6 @@ Contributors names:
 
 Vipra Tyagi
 
-#Snapshot of chatbot
+# **Snapshot of chatbot**
 ![Screenshot 2024-02-22 173654](https://github.com/VipraTyagi/python-chatbot/assets/74718612/d1f04d68-8328-49ae-b785-eb1b321b0ebe)
 
