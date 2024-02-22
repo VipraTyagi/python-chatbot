@@ -1,5 +1,5 @@
-# python-deep-learning-chatbot
-The project is completed as part of the course Artificial Intelligence and the Web at University of Osnabrück. A deep learning chatbot created with Python and Flask.
+# Chatbot
+The project is completed as part of the course Artificial Intelligence and the Web at University of Osnabrück. A chatbot created with Python and Flask.
 
 To get started follow the steps below:
 
@@ -32,3 +32,6 @@ Authors
 Contributors names:
 
 Vipra Tyagi
+
+#Snapshot of chatbot
+
